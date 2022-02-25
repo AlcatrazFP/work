@@ -1,0 +1,11 @@
+Model Information:
+* title:	Linear 1 LP
+* source:	https://sketchfab.com/3d-models/linear-1-lp-ac2d4f9b28cf4dc79b17302d89322e80
+* author:	efrenr (https://sketchfab.com/efrenr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Linear 1 LP" (https://sketchfab.com/3d-models/linear-1-lp-ac2d4f9b28cf4dc79b17302d89322e80) by efrenr (https://sketchfab.com/efrenr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

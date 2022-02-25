@@ -1,0 +1,11 @@
+Model Information:
+* title:	Model Atom Bohr
+* source:	https://sketchfab.com/3d-models/model-atom-bohr-e260278661024d368c4345ccafeeb8bb
+* author:	majid_smago (https://sketchfab.com/majid_smago)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Model Atom Bohr" (https://sketchfab.com/3d-models/model-atom-bohr-e260278661024d368c4345ccafeeb8bb) by majid_smago (https://sketchfab.com/majid_smago) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

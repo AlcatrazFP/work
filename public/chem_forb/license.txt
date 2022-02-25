@@ -1,0 +1,11 @@
+Model Information:
+* title:	f7 Orbital
+* source:	https://sketchfab.com/3d-models/f7-orbital-1809ca8292a8469296a21bc54a45ecdd
+* author:	efrenr (https://sketchfab.com/efrenr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "f7 Orbital" (https://sketchfab.com/3d-models/f7-orbital-1809ca8292a8469296a21bc54a45ecdd) by efrenr (https://sketchfab.com/efrenr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

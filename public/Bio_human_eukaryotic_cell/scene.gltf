@@ -1,0 +1,2467 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 11918,
+      "max": [
+        1.0119109153747559,
+        1.0133287906646729,
+        1.0139815807342529
+      ],
+      "min": [
+        -1.0198721885681152,
+        -1.0151408910751343,
+        -1.0102146863937378
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 143016,
+      "componentType": 5126,
+      "count": 11918,
+      "max": [
+        0.99995672702789307,
+        0.9996258020401001,
+        0.99983417987823486
+      ],
+      "min": [
+        -0.99988877773284912,
+        -0.99981355667114258,
+        -0.99996036291122437
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 11918,
+      "max": [
+        0.7137255072593689,
+        0.90980392694473267,
+        0.87843137979507446,
+        1
+      ],
+      "min": [
+        0.7137255072593689,
+        0.90980392694473267,
+        0.87843137979507446,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 74388,
+      "max": [
+        11917
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 286032,
+      "componentType": 5126,
+      "count": 4887,
+      "max": [
+        1.0300945043563843,
+        0.98863434791564941,
+        0.94432264566421509
+      ],
+      "min": [
+        -0.98912036418914795,
+        -1.0069243907928467,
+        -1.025259256362915
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 344676,
+      "componentType": 5126,
+      "count": 4887,
+      "max": [
+        0.99916011095046997,
+        0.99905610084533691,
+        0.99989676475524902
+      ],
+      "min": [
+        -0.99984312057495117,
+        -0.99980616569519043,
+        -0.99997913837432861
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 190688,
+      "componentType": 5126,
+      "count": 4887,
+      "max": [
+        1,
+        0.34509804844856262,
+        0.023529412224888802,
+        1
+      ],
+      "min": [
+        1,
+        0.34509804844856262,
+        0.023529412224888802,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 297552,
+      "componentType": 5125,
+      "count": 22578,
+      "max": [
+        4886
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 403320,
+      "componentType": 5126,
+      "count": 394,
+      "max": [
+        0.24117344617843628,
+        0.36833953857421875,
+        0.48390358686447144
+      ],
+      "min": [
+        -0.56275761127471924,
+        -0.40836194157600403,
+        -0.30193176865577698
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 408048,
+      "componentType": 5126,
+      "count": 394,
+      "max": [
+        0.98884963989257812,
+        0.99666863679885864,
+        0.99376964569091797
+      ],
+      "min": [
+        -0.99632513523101807,
+        -0.98843151330947876,
+        -0.99659287929534912
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 268880,
+      "componentType": 5126,
+      "count": 394,
+      "max": [
+        0.35294118523597717,
+        0.027450980618596077,
+        0.11764705926179886,
+        1
+      ],
+      "min": [
+        0.34509804844856262,
+        0.019607843831181526,
+        0.11372549086809158,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 387864,
+      "componentType": 5125,
+      "count": 2352,
+      "max": [
+        393
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 412776,
+      "componentType": 5126,
+      "count": 10057,
+      "max": [
+        0.90704023838043213,
+        0.94664460420608521,
+        0.97444373369216919
+      ],
+      "min": [
+        -0.95229381322860718,
+        -0.92835557460784912,
+        -0.89869064092636108
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 533460,
+      "componentType": 5126,
+      "count": 10057,
+      "max": [
+        0.99964475631713867,
+        0.9997408390045166,
+        0.99990302324295044
+      ],
+      "min": [
+        -0.99962908029556274,
+        -0.99979358911514282,
+        -0.99985647201538086
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 275184,
+      "componentType": 5126,
+      "count": 10057,
+      "max": [
+        0.67843139171600342,
+        0.011764706112444401,
+        0.20000000298023224,
+        1
+      ],
+      "min": [
+        0.67058825492858887,
+        0.0039215688593685627,
+        0.19215686619281769,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 397272,
+      "componentType": 5125,
+      "count": 24162,
+      "max": [
+        10056
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 654144,
+      "componentType": 5126,
+      "count": 2945,
+      "max": [
+        -0.23416802287101746,
+        2.9430661201477051,
+        2.4295644760131836
+      ],
+      "min": [
+        -3.299342155456543,
+        -2.996009349822998,
+        -6.1159639358520508
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 689484,
+      "componentType": 5126,
+      "count": 2945,
+      "max": [
+        0.99989140033721924,
+        0.99991172552108765,
+        0.99979960918426514
+      ],
+      "min": [
+        -0.99995720386505127,
+        -0.99992293119430542,
+        -0.99938046932220459
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 436096,
+      "componentType": 5126,
+      "count": 2945,
+      "max": [
+        0.039215687662363052,
+        0.50196081399917603,
+        0.43529412150382996,
+        1
+      ],
+      "min": [
+        0.031372550874948502,
+        0.49411764740943909,
+        0.42745098471641541,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 493920,
+      "componentType": 5125,
+      "count": 17670,
+      "max": [
+        2944
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 724824,
+      "componentType": 5126,
+      "count": 660,
+      "max": [
+        -0.14348472654819489,
+        2.6129395961761475,
+        2.2727282047271729
+      ],
+      "min": [
+        -3.3166117668151855,
+        -2.2775912284851074,
+        1.9379607439041138
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 732744,
+      "componentType": 5126,
+      "count": 660,
+      "max": [
+        0.98807507753372192,
+        0.98765307664871216,
+        0.9942777156829834
+      ],
+      "min": [
+        -0.98985522985458374,
+        -0.99603980779647827,
+        -0.99957185983657837
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 483216,
+      "componentType": 5126,
+      "count": 660,
+      "max": [
+        0.97254902124404907,
+        0.72156864404678345,
+        0.42745098471641541,
+        1
+      ],
+      "min": [
+        0.87843137979507446,
+        0.62745100259780884,
+        0.24705882370471954,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 564600,
+      "componentType": 5125,
+      "count": 3792,
+      "max": [
+        659
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 740664,
+      "componentType": 5126,
+      "count": 5681,
+      "max": [
+        -0.09110628068447113,
+        0.17238666117191315,
+        -1.6089274883270264
+      ],
+      "min": [
+        -1.6759029626846313,
+        -2.2768170833587646,
+        -4.9289870262145996
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 808836,
+      "componentType": 5126,
+      "count": 5681,
+      "max": [
+        0.99977797269821167,
+        0.99893659353256226,
+        0.99979782104492188
+      ],
+      "min": [
+        -0.99915438890457153,
+        -0.99950361251831055,
+        -0.99991351366043091
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 493776,
+      "componentType": 5126,
+      "count": 5681,
+      "max": [
+        0.14117647707462311,
+        0.74901962280273438,
+        0.51372551918029785,
+        1
+      ],
+      "min": [
+        0.14117647707462311,
+        0.74901962280273438,
+        0.51372551918029785,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 579768,
+      "componentType": 5125,
+      "count": 33750,
+      "max": [
+        5680
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 877008,
+      "componentType": 5126,
+      "count": 18478,
+      "max": [
+        -0.11399555951356888,
+        1.8887208700180054,
+        1.7908838987350464
+      ],
+      "min": [
+        -1.9348243474960327,
+        -1.8392469882965088,
+        -2.1798832416534424
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1098744,
+      "componentType": 5126,
+      "count": 18478,
+      "max": [
+        0.99999850988388062,
+        0.99991410970687866,
+        0.99994385242462158
+      ],
+      "min": [
+        -0.99976903200149536,
+        -0.99999105930328369,
+        -0.99993962049484253
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 584672,
+      "componentType": 5126,
+      "count": 18478,
+      "max": [
+        0.42745098471641541,
+        0.43921568989753723,
+        0.84313726425170898,
+        1
+      ],
+      "min": [
+        0.41960784792900085,
+        0.43137255311012268,
+        0.83529412746429443,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 714768,
+      "componentType": 5125,
+      "count": 88686,
+      "max": [
+        18477
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1320480,
+      "componentType": 5126,
+      "count": 7443,
+      "max": [
+        -0.19738240540027618,
+        2.4402503967285156,
+        1.8170415163040161
+      ],
+      "min": [
+        -2.0249791145324707,
+        -2.3143119812011719,
+        -3.867579460144043
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1409796,
+      "componentType": 5126,
+      "count": 7443,
+      "max": [
+        0.8905872106552124,
+        0.93945938348770142,
+        0.9764631986618042
+      ],
+      "min": [
+        -0.99216574430465698,
+        -0.98508411645889282,
+        -0.99602764844894409
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 880320,
+      "componentType": 5126,
+      "count": 7443,
+      "max": [
+        1,
+        0.21568627655506134,
+        0.10980392247438431,
+        1
+      ],
+      "min": [
+        0.56862747669219971,
+        0,
+        0,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1069512,
+      "componentType": 5125,
+      "count": 34500,
+      "max": [
+        7442
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1499112,
+      "componentType": 5126,
+      "count": 43146,
+      "max": [
+        -0.11190877854824066,
+        1.8717931509017944,
+        1.7756929397583008
+      ],
+      "min": [
+        -0.69984614849090576,
+        -2.4157359600067139,
+        -5.9268274307250977
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2016864,
+      "componentType": 5126,
+      "count": 43146,
+      "max": [
+        0.99963623285293579,
+        0.99984908103942871,
+        0.99961507320404053
+      ],
+      "min": [
+        -0.99867874383926392,
+        -0.99949830770492554,
+        -0.99782127141952515
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 999408,
+      "componentType": 5126,
+      "count": 43146,
+      "max": [
+        0.91372549533843994,
+        0.92941176891326904,
+        0.63921570777893066,
+        1
+      ],
+      "min": [
+        0.68235296010971069,
+        0.5058823823928833,
+        0.20784313976764679,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1207512,
+      "componentType": 5125,
+      "count": 55716,
+      "max": [
+        43145
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2534616,
+      "componentType": 5126,
+      "count": 4363,
+      "max": [
+        -0.10126791894435883,
+        2.4826958179473877,
+        0.66231858730316162
+      ],
+      "min": [
+        -2.2964255809783936,
+        -2.6428730487823486,
+        -3.956167459487915
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2586972,
+      "componentType": 5126,
+      "count": 4363,
+      "max": [
+        0.99875110387802124,
+        0.99931013584136963,
+        0.99860435724258423
+      ],
+      "min": [
+        -0.9995991587638855,
+        -0.99843591451644897,
+        -0.99984318017959595
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1689744,
+      "componentType": 5126,
+      "count": 4363,
+      "max": [
+        1,
+        0.44705882668495178,
+        0.17647059261798859,
+        1
+      ],
+      "min": [
+        0.9686274528503418,
+        0.41568627953529358,
+        0.14509804546833038,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1430376,
+      "componentType": 5125,
+      "count": 26034,
+      "max": [
+        4362
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2639328,
+      "componentType": 5126,
+      "count": 1122,
+      "max": [
+        -0.31537052989006042,
+        1.7722406387329102,
+        -4.2383670806884766
+      ],
+      "min": [
+        -2.9521026611328125,
+        -2.3080403804779053,
+        -5.8606576919555664
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2652792,
+      "componentType": 5126,
+      "count": 1122,
+      "max": [
+        0.99728131294250488,
+        0.99295687675476074,
+        0.98703736066818237
+      ],
+      "min": [
+        -0.99479883909225464,
+        -0.99853867292404175,
+        -0.99649006128311157
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1759552,
+      "componentType": 5126,
+      "count": 1122,
+      "max": [
+        0.21176470816135406,
+        0.3333333432674408,
+        0.82352942228317261,
+        1
+      ],
+      "min": [
+        0.20000000298023224,
+        0.32156863808631897,
+        0.81176471710205078,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1534512,
+      "componentType": 5125,
+      "count": 5892,
+      "max": [
+        1121
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2666256,
+      "componentType": 5126,
+      "count": 215,
+      "max": [
+        -0.26030069589614868,
+        1.4101889133453369,
+        -4.1500520706176758
+      ],
+      "min": [
+        -2.8382344245910645,
+        -1.6232271194458008,
+        -4.6534342765808105
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2668836,
+      "componentType": 5126,
+      "count": 215,
+      "max": [
+        0.99420183897018433,
+        0.99871844053268433,
+        0.99756479263305664
+      ],
+      "min": [
+        -0.99914628267288208,
+        -0.98664462566375732,
+        -0.98836803436279297
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1777504,
+      "componentType": 5126,
+      "count": 215,
+      "max": [
+        0.90980392694473267,
+        0.67450982332229614,
+        0.85098040103912354,
+        1
+      ],
+      "min": [
+        0.90980392694473267,
+        0.67450982332229614,
+        0.85098040103912354,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1558080,
+      "componentType": 5125,
+      "count": 1242,
+      "max": [
+        214
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2671416,
+      "componentType": 5126,
+      "count": 213,
+      "max": [
+        -0.28314653038978577,
+        1.3883787393569946,
+        -4.174689769744873
+      ],
+      "min": [
+        -2.8293595314025879,
+        -1.6154230833053589,
+        -4.6453995704650879
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2673972,
+      "componentType": 5126,
+      "count": 213,
+      "max": [
+        0.99420195817947388,
+        0.98794543743133545,
+        0.99877476692199707
+      ],
+      "min": [
+        -0.99893438816070557,
+        -0.98664462566375732,
+        -0.98527014255523682
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1780944,
+      "componentType": 5126,
+      "count": 213,
+      "max": [
+        0.86666667461395264,
+        0.52941179275512695,
+        0.78431373834609985,
+        1
+      ],
+      "min": [
+        0.86666667461395264,
+        0.52941179275512695,
+        0.78431373834609985,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1563048,
+      "componentType": 5125,
+      "count": 1230,
+      "max": [
+        212
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2676528,
+      "componentType": 5126,
+      "count": 6362,
+      "max": [
+        -0.12296396493911743,
+        3.013751745223999,
+        -1.0053448677062988
+      ],
+      "min": [
+        -3.1051599979400635,
+        -2.9303958415985107,
+        -5.1891002655029297
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2752872,
+      "componentType": 5126,
+      "count": 6362,
+      "max": [
+        0.99999994039535522,
+        1,
+        1
+      ],
+      "min": [
+        -0.99999994039535522,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1784352,
+      "componentType": 5126,
+      "count": 6362,
+      "max": [
+        1,
+        0.94901961088180542,
+        0.17647059261798859,
+        1
+      ],
+      "min": [
+        0.96078431606292725,
+        0.90980392694473267,
+        0.13725490868091583,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1567968,
+      "componentType": 5125,
+      "count": 22338,
+      "max": [
+        6361
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2829216,
+      "componentType": 5126,
+      "count": 14817,
+      "max": [
+        -0.27094370126724243,
+        3.1206772327423096,
+        2.6521782875061035
+      ],
+      "min": [
+        -3.5053818225860596,
+        -3.2360596656799316,
+        -6.3805074691772461
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3007020,
+      "componentType": 5126,
+      "count": 14817,
+      "max": [
+        0.99999898672103882,
+        0.9999845027923584,
+        0.9999966025352478
+      ],
+      "min": [
+        -0.99999761581420898,
+        -0.99999862909317017,
+        -0.99999737739562988
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1886144,
+      "componentType": 5126,
+      "count": 14817,
+      "max": [
+        0.90980392694473267,
+        0.67450982332229614,
+        0.85098040103912354,
+        1
+      ],
+      "min": [
+        0.85490196943283081,
+        0.51764708757400513,
+        0.77254903316497803,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1657320,
+      "componentType": 5125,
+      "count": 88878,
+      "max": [
+        14816
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3184824,
+      "componentType": 5126,
+      "count": 148,
+      "max": [
+        -0.84539759159088135,
+        0.22924138605594635,
+        -3.9213242530822754
+      ],
+      "min": [
+        -1.0875197649002075,
+        -0.01289912685751915,
+        -4.1634631156921387
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3186600,
+      "componentType": 5126,
+      "count": 148,
+      "max": [
+        0.99966728687286377,
+        0.99872881174087524,
+        0.99124360084533691
+      ],
+      "min": [
+        -0.99651855230331421,
+        -0.9991188645362854,
+        -0.99570101499557495
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2123216,
+      "componentType": 5126,
+      "count": 148,
+      "max": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "min": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2012832,
+      "componentType": 5125,
+      "count": 876,
+      "max": [
+        147
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3188376,
+      "componentType": 5126,
+      "count": 2508,
+      "max": [
+        -0.87067818641662598,
+        0.20193278789520264,
+        -3.9680137634277344
+      ],
+      "min": [
+        -1.0136450529098511,
+        0.02836221270263195,
+        -4.1238369941711426
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3218472,
+      "componentType": 5126,
+      "count": 2508,
+      "max": [
+        0.99887192249298096,
+        0.99989122152328491,
+        0.99954056739807129
+      ],
+      "min": [
+        -0.99912750720977783,
+        -0.99856770038604736,
+        -0.99813789129257202
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2125584,
+      "componentType": 5126,
+      "count": 2508,
+      "max": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "min": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2016336,
+      "componentType": 5125,
+      "count": 14784,
+      "max": [
+        2507
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3248568,
+      "componentType": 5126,
+      "count": 17209,
+      "max": [
+        -0.11487407237291336,
+        2.4281303882598877,
+        -0.37393617630004883
+      ],
+      "min": [
+        -1.0323507785797119,
+        -2.6027119159698486,
+        -3.8948612213134766
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3455076,
+      "componentType": 5126,
+      "count": 17209,
+      "max": [
+        0.99993234872817993,
+        0.99996447563171387,
+        0.99982535839080811
+      ],
+      "min": [
+        -0.99974215030670166,
+        -0.999828040599823,
+        -0.99997478723526001
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2165712,
+      "componentType": 5126,
+      "count": 17209,
+      "max": [
+        0.99215686321258545,
+        0.77254903316497803,
+        0.11764705926179886,
+        1
+      ],
+      "min": [
+        0.99215686321258545,
+        0.77254903316497803,
+        0.11764705926179886,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2075472,
+      "componentType": 5125,
+      "count": 103902,
+      "max": [
+        17208
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3661584,
+      "componentType": 5126,
+      "count": 199,
+      "max": [
+        -0.14039438962936401,
+        -0.18603508174419403,
+        -0.85198801755905151
+      ],
+      "min": [
+        -0.44919338822364807,
+        -0.73732542991638184,
+        -1.0488346815109253
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3663972,
+      "componentType": 5126,
+      "count": 199,
+      "max": [
+        0.99698090553283691,
+        0.9890018105506897,
+        0.98848706483840942
+      ],
+      "min": [
+        -0.99170958995819092,
+        -0.99641668796539307,
+        -0.99967294931411743
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2441056,
+      "componentType": 5126,
+      "count": 199,
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "min": [
+        0.50980395078659058,
+        0.0039215688593685627,
+        0.67058825492858887,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2491080,
+      "componentType": 5125,
+      "count": 1170,
+      "max": [
+        198
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "E-learning University Medical Center Groningen (https://sketchfab.com/eLearningUMCG)",
+      "license": "CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)",
+      "source": "https://sketchfab.com/models/e769645f40fc47c38b89bcfc6b8b4d44",
+      "title": "Human Eukaryotic Cell and its main components"
+    },
+    "generator": "Sketchfab-3.22.5",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 2495760,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3666360,
+      "byteOffset": 2495760,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2444240,
+      "byteOffset": 6162120,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 8606360,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.5,
+            0.5,
+            0.5,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "Nucleus_membrane"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.5,
+            0.5,
+            0.5,
+            1
+          ],
+          "glossinessFactor": 0.60164138330000005,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "Nuclear_pores"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.5,
+            0.5,
+            0.5,
+            1
+          ],
+          "glossinessFactor": 0.65618683789999999,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "Nucleolus"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.5,
+            0.5,
+            0.5,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "Heterochromatin"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.5,
+            0.5,
+            0.5,
+            1
+          ],
+          "glossinessFactor": 0.74103532270000005,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "Microfilaments2"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.5,
+            0.5,
+            0.5,
+            1
+          ],
+          "glossinessFactor": 0.4258838076,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "Microfilaments"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.5,
+            0.5,
+            0.5,
+            1
+          ],
+          "glossinessFactor": 0.50467168630000003,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "Golgi"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.5,
+            0.5,
+            0.5,
+            1
+          ],
+          "glossinessFactor": 0.1592171409,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "material"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.5,
+            0.5,
+            0.5,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "Ribosomes"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0.38005019680000002,
+        0.29866270631150921,
+        0.042210317787229105
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.5,
+            0.5,
+            0.5,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "Proteins"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.5,
+            0.5,
+            0.5,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "Mitochondria_external_membranes"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0.023684570848682553,
+        0.016970880410658768,
+        0.58368524899413998
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.5,
+            0.5,
+            0.5,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "Endosome_content"
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.5,
+            0.5,
+            0.5,
+            0.57133835300000002
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "Endosome_external_membrane"
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.5,
+            0.5,
+            0.5,
+            0.60164138330000005
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "Endosome_internal_membrane"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.5,
+            0.5,
+            0.5,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "Centrioles"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.5,
+            0.5,
+            0.5,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0.050000000000000003,
+            0.050000000000000003,
+            0.050000000000000003
+          ]
+        }
+      },
+      "name": "Cell_membrane2"
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.5,
+            0.5,
+            0.5,
+            0.72285350449999997
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "Lysosome"
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.5,
+            0.5,
+            0.5,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "Lysosome_content"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.42506311590000001,
+            0.42506311590000001,
+            0.42506311590000001,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "Mitochondria_inside"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.034715396099999997,
+            0.0073301714999999996,
+            0.057297834300000003,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "material_20"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Nucleus_membrane_Nucleus_membrane_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 2,
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Nuclear_pores_Nuclear_pores_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 6,
+            "NORMAL": 5,
+            "POSITION": 4
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Nucleolus_Nucleolus_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 10,
+            "NORMAL": 9,
+            "POSITION": 8
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Heterochromatin_Heterochromatin_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 14,
+            "NORMAL": 13,
+            "POSITION": 12
+          },
+          "indices": 15,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Microfilaments2_Microfilaments2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 18,
+            "NORMAL": 17,
+            "POSITION": 16
+          },
+          "indices": 19,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Microfilaments_Microfilaments_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 22,
+            "NORMAL": 21,
+            "POSITION": 20
+          },
+          "indices": 23,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Golgi_Golgi_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 26,
+            "NORMAL": 25,
+            "POSITION": 24
+          },
+          "indices": 27,
+          "material": 6,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Rer_Rer_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 30,
+            "NORMAL": 29,
+            "POSITION": 28
+          },
+          "indices": 31,
+          "material": 7,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Ribosomes_Ribosomes_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 34,
+            "NORMAL": 33,
+            "POSITION": 32
+          },
+          "indices": 35,
+          "material": 8,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Proteins_Proteins_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 38,
+            "NORMAL": 37,
+            "POSITION": 36
+          },
+          "indices": 39,
+          "material": 9,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Mitochondria_external_membranes_Mitochondria_external_membranes_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 42,
+            "NORMAL": 41,
+            "POSITION": 40
+          },
+          "indices": 43,
+          "material": 10,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Endosome_content_Endosome_content_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 46,
+            "NORMAL": 45,
+            "POSITION": 44
+          },
+          "indices": 47,
+          "material": 11,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Endosome_external_membrane_Endosome_external_membrane_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 50,
+            "NORMAL": 49,
+            "POSITION": 48
+          },
+          "indices": 51,
+          "material": 12,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Endosome_internal_membrane_Endosome_internal_membrane_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 54,
+            "NORMAL": 53,
+            "POSITION": 52
+          },
+          "indices": 55,
+          "material": 13,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Centrioles_Centrioles_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 58,
+            "NORMAL": 57,
+            "POSITION": 56
+          },
+          "indices": 59,
+          "material": 14,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cell_membrane2_Cell_membrane2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 62,
+            "NORMAL": 61,
+            "POSITION": 60
+          },
+          "indices": 63,
+          "material": 15,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Lysosome_Lysosome_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 66,
+            "NORMAL": 65,
+            "POSITION": 64
+          },
+          "indices": 67,
+          "material": 16,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Lysosome_content_Lysosome_content_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 70,
+            "NORMAL": 69,
+            "POSITION": 68
+          },
+          "indices": 71,
+          "material": 17,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Mitochondria_inside_Mitochondria_inside_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 74,
+            "NORMAL": 73,
+            "POSITION": 72
+          },
+          "indices": 75,
+          "material": 18,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Rna_Rna_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 78,
+            "NORMAL": 77,
+            "POSITION": 76
+          },
+          "indices": 79,
+          "material": 19,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        -0.10787849128246307,
+        -0.99248707294464111,
+        0.057720258831977844,
+        0,
+        0.0056246123276650906,
+        0.057448852807283401,
+        0.99833261966705322,
+        0,
+        -0.99414819478988647,
+        0.1080232709646225,
+        -0.0006151404813863337,
+        0,
+        -1.4081048965454102,
+        0.55963397026062012,
+        -1.8510453701019287,
+        1
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "f815d7ed8bd84434bf95855f3fe5f25b.fbx"
+    },
+    {
+      "children": [
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16,
+        18,
+        20,
+        22,
+        24,
+        26,
+        28,
+        30,
+        32,
+        34,
+        36,
+        38,
+        40,
+        42
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "Nucleus_membrane"
+    },
+    {
+      "mesh": 0,
+      "name": "Nucleus_membrane_Nucleus_membrane_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "name": "Nuclear_pores"
+    },
+    {
+      "mesh": 1,
+      "name": "Nuclear_pores_Nuclear_pores_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "name": "Nucleolus"
+    },
+    {
+      "mesh": 2,
+      "name": "Nucleolus_Nucleolus_0"
+    },
+    {
+      "children": [
+        11
+      ],
+      "name": "Heterochromatin"
+    },
+    {
+      "mesh": 3,
+      "name": "Heterochromatin_Heterochromatin_0"
+    },
+    {
+      "children": [
+        13
+      ],
+      "name": "Microfilaments2"
+    },
+    {
+      "mesh": 4,
+      "name": "Microfilaments2_Microfilaments2_0"
+    },
+    {
+      "children": [
+        15
+      ],
+      "name": "Microfilaments"
+    },
+    {
+      "mesh": 5,
+      "name": "Microfilaments_Microfilaments_0"
+    },
+    {
+      "children": [
+        17
+      ],
+      "name": "Golgi"
+    },
+    {
+      "mesh": 6,
+      "name": "Golgi_Golgi_0"
+    },
+    {
+      "children": [
+        19
+      ],
+      "name": "Rer"
+    },
+    {
+      "mesh": 7,
+      "name": "Rer_Rer_0"
+    },
+    {
+      "children": [
+        21
+      ],
+      "name": "Ribosomes"
+    },
+    {
+      "mesh": 8,
+      "name": "Ribosomes_Ribosomes_0"
+    },
+    {
+      "children": [
+        23
+      ],
+      "name": "Proteins"
+    },
+    {
+      "mesh": 9,
+      "name": "Proteins_Proteins_0"
+    },
+    {
+      "children": [
+        25
+      ],
+      "name": "Mitochondria_external_membranes"
+    },
+    {
+      "mesh": 10,
+      "name": "Mitochondria_external_membranes_Mitochondria_external_membranes_0"
+    },
+    {
+      "children": [
+        27
+      ],
+      "name": "Endosome_content"
+    },
+    {
+      "mesh": 11,
+      "name": "Endosome_content_Endosome_content_0"
+    },
+    {
+      "children": [
+        29
+      ],
+      "name": "Endosome_external_membrane"
+    },
+    {
+      "mesh": 12,
+      "name": "Endosome_external_membrane_Endosome_external_membrane_0"
+    },
+    {
+      "children": [
+        31
+      ],
+      "name": "Endosome_internal_membrane"
+    },
+    {
+      "mesh": 13,
+      "name": "Endosome_internal_membrane_Endosome_internal_membrane_0"
+    },
+    {
+      "children": [
+        33
+      ],
+      "name": "Centrioles"
+    },
+    {
+      "mesh": 14,
+      "name": "Centrioles_Centrioles_0"
+    },
+    {
+      "children": [
+        35
+      ],
+      "name": "Cell_membrane2"
+    },
+    {
+      "mesh": 15,
+      "name": "Cell_membrane2_Cell_membrane2_0"
+    },
+    {
+      "children": [
+        37
+      ],
+      "name": "Lysosome"
+    },
+    {
+      "mesh": 16,
+      "name": "Lysosome_Lysosome_0"
+    },
+    {
+      "children": [
+        39
+      ],
+      "name": "Lysosome_content"
+    },
+    {
+      "mesh": 17,
+      "name": "Lysosome_content_Lysosome_content_0"
+    },
+    {
+      "children": [
+        41
+      ],
+      "name": "Mitochondria_inside"
+    },
+    {
+      "mesh": 18,
+      "name": "Mitochondria_inside_Mitochondria_inside_0"
+    },
+    {
+      "children": [
+        43
+      ],
+      "name": "Rna"
+    },
+    {
+      "mesh": 19,
+      "name": "Rna_Rna_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
+
